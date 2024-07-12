@@ -1,0 +1,4 @@
+para verlo en el navegador, abre el que dice "index"
+
+
+para edicion, puedes usar visual studio code
